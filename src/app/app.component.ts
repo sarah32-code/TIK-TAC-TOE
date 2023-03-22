@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { BoardComponent } from './board/board.component';
+import { SquarComponent } from './squar/squar.component';
 
 @Component({
   selector: 'app-root',
